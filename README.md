@@ -64,7 +64,7 @@ It delivers a **ChatGPT-like experience** with intelligent conversation memory, 
 
 ## 🖥️ Live Demo
 
-🔗 https://your-streamlit-app-link.streamlit.app/
+🔗 https://ai-nexus-chatbot-tbnxufeytrhbbdqzsggr4s.streamlit.app/
 
 ---
 
@@ -214,17 +214,5 @@ This project is licensed under the **MIT License**
 * Integrate ML models
 * Deploy with custom domain
 * Add database persistence
-
----
-
-### 🔥 Tip
-
-Before publishing, replace:
-
-```
-https://ai-nexus-chatbot-tbnxufeytrhbbdqzsggr4s.streamlit.app/
-```
-
-with your actual deployed app link.
 
 ---

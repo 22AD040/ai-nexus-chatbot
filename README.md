@@ -154,9 +154,25 @@ GEMINI_API_KEY = "your_api_key_here"
 
 ## 📸 Screenshots
 
-* 🔐 Login Page
-* 💬 Chat Interface
-* 📂 Sidebar Chat Sessions
+### 🔐 Login Page
+![Login Page](assets/login.png)
+
+---
+
+### 📝 Register Page
+![Register Page](assets/register.png)
+
+---
+
+### 💬 Chat Interface
+![Chat Interface](assets/chat.png)
+
+---
+
+### 📂 Sidebar Chat Sessions
+✔️ Click previous chats to reload conversation  
+✔️ Multi-chat thread support (like ChatGPT)  
+✔️ Real-time session switching
 
 ---
 
@@ -206,7 +222,7 @@ This project is licensed under the **MIT License**
 Before publishing, replace:
 
 ```
-https://your-streamlit-app-link.streamlit.app/
+https://ai-nexus-chatbot-tbnxufeytrhbbdqzsggr4s.streamlit.app/
 ```
 
 with your actual deployed app link.

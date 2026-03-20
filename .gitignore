@@ -1,40 +1,40 @@
-# Python
+
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Virtual Environment
-venv/
-.env/
 
-# Streamlit
+venv/
+.venv/
+
+
+.env
+
+
 .streamlit/
 
-# Data (prevent leakage)
+
 data/users.json
 
-# OS files
+
 .DS_Store
 Thumbs.db
 
-# Logs
+
 *.log
 
-# VS Code
+
 .vscode/
 
-# Jupyter
+
 .ipynb_checkpoints/
 
-# Build files
+
 dist/
 build/
 *.egg-info/
 
-# dotenv
-.env
 
-# Temporary files
 *.tmp
 *.bak
